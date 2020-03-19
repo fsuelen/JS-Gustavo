@@ -23,6 +23,7 @@ footer {
     font-style: italic;
 }
 
-#msg {
+div {
     text-align: center;
+    padding: 10px;
 }
